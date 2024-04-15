@@ -12,11 +12,10 @@ title                    : "Qisheng Pan's website"
 title_separator          : "-"
 name                     : &name "Qisheng Pan (潘启生)"
 description              : &description "personal description"
-# url                      : https://qisheng-pan.github.io/qisheng-pan.github.io/
-url                      : https://localhost:4000 
+url                      : https://qisheng-pan.github.io/
+# url                      : https://localhost:4000 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-# repository               : "sunny8192.github.io/qisheng_pan.github.io/"
-repository               : "localhost:4000"
+repository               : "qisheng-pan/qisheng-pan.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
