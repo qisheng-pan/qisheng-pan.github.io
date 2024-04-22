@@ -58,7 +58,9 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Download
 ======
-* Currently signed in to 43 different slack teams
+My academic CV in PDF format can be accessed <a href="/files/CV-Qisheng_Pan.pdf" target="_blank">here</a>.
+
+

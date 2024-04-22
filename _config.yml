@@ -22,7 +22,7 @@ repository               : "qisheng-pan/qisheng-pan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "p0.jpg"
   name             : "Qisheng Pan (潘启生)"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at the University of Queensland"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : # "qisheng-pan-2400411a2"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
