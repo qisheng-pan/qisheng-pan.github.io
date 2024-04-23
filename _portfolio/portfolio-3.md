@@ -1,6 +1,6 @@
 ---
 title: "Outstanding Contribution to Research (Ascher Group)"
-excerpt: "University of Queensland, Brisbane, Australia<br/><img src='/images/group_awards.jpg'>"
+excerpt: "University of Queensland, Brisbane, Australia<br/><img src='/images/group_awards.jpg' width='60%'>"
 collection: portfolio
 ---
 

@@ -1,11 +1,10 @@
 ---
-title: "Travel Award, MM2023 conference"
-excerpt: "University of Wollongong, Wollongong, Australia<br/><img src='/images/mm2023.jpg'>"
+title: "Student Prize of the Oral Presentation in the CTCMS seminar"
+excerpt: "University of Queensland, Brisbane, Australia<br/><img src='/images/ctcms.jpg' width='60%'>"
 collection: portfolio
 ---
 
 <br>
-Qisheng received a Travel Award at the <a href="https://sites.google.com/view/mm2023-wollongong" target="_blank">MM2023 conferrence</a>, organised by AMMA.
+Qisheng was awarded for the student prize of his oral presentation in the CTCMS seminar, University of Queensland. 
 
-<img src='/images/mm2023.jpg'>
-
+<img src='/images/ctcms.jpg'>

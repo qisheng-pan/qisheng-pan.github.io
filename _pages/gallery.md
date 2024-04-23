@@ -1,5 +1,5 @@
 ---
-permalink: /gallery
+permalink: /gallery/
 title: "photos"
 ---
 
