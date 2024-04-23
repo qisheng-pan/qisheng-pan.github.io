@@ -7,15 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-Starting as a wet-lab person in the undergraduate study, Qisheng investigated the regulation of the expression of inflammatory cytokins in the microglia cells caused by the knock out of the *Cyld* gene, and their relationship with anxiety-like behaviours in mice. After that, concerning the laboratory condition may not be suitable for his skin health, he started a new journey in dry-lab work. He studied bioinformatic analysis in his master degree, where he met his current supervisor, <a href="https://researchers.uq.edu.au/researcher/33027" target="_blank">Prof. David Ascher</a>. With strong self-motivation, Qisheng studied programming and Linux command-line by himself, which built a solid foundation for his later research projects on molecular modelling and machine learning-based mutation analysis.
+Starting as a wet-lab person in the undergraduate study, Qisheng worked on neuroinflammation and anxiety-like behaviour on mice using molecular experiments and behavioural tests. After that, concerning the laboratory condition may not be suitable for his skin health, he started a new journey in dry-lab work. He studied bioinformatics in his master degree, where he met his current supervisors, <a href="https://researchers.uq.edu.au/researcher/33027" target="_blank">Prof. David Ascher</a>, <a href="https://scholar.google.com/citations?user=UaA7NQsAAAAJ&hl=en" target="_blank">Dr. Stephanie Portelli</a>, and Dr. <a href="https://scholar.google.co.uk/citations?hl=en&user=tHGepncAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Thanh-Binh Nguyen</a>. With strong self-motivation, Qisheng studied programming and Linux command-line by himself, which built a solid foundation for his later research projects on molecular modelling and machine learning-based mutation analysis.
 
 Qisheng Pan has a broad interest in computational biology. Currently, his PhD projects focus on 
-1. evaluating the performance of computational tools to estimate the effect of missense mutations on protein structures, and 
-2. how to leverage the computational programs and machine learning to better annotate the effect of missense variants towards pathogenic phenotypes. 
+1. **evaluating the performance of computational tools to estimate the effect of missense mutations on protein structures, stability, and ligand binding**, and 
+2. **how to leverage the computational programs and machine learning to better charactersise the effect of missense variants towards pathogenic phenotypes**. 
 
-In addition to his research projects, Qisheng is also keen on scientific presentations, which brought him several clinical collaborations of the annotation of missense variants using computational biophysical measurments. 
+In addition to his research projects, Qisheng is also keen on <a href="/talks/">scientific presentations</a>. 
 
-Meanwhile, he has experiences in mentoring undergrad and master students to provide guidance on their research projects. 
+Meanwhile, he has experiences in mentoring undergraduate and master students to provide guidance on their research projects. 
 
-In his spare time, he likes photography, cycling, video games, grocery shopping, etc. 
+In his spare time, he likes <a href="/gallery/">photography</a>, cycling, video games, grocery shopping, etc. 
+
+**Brisbane**
+<img src="/images/koala/1713851532854.jpg" widht="50%" height="50%">
+
+**Melbourne**
+<img src="/images/great_ocean_road/DSC02745.jpg" widht="50%" height="50%">
+
+**Guangzhou**
+<img src="/images/guangzhou/DSC02472.jpg" widht="50%" height="50%">
 

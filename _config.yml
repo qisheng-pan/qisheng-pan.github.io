@@ -12,8 +12,8 @@ title                    : "Qisheng Pan's website"
 title_separator          : "-"
 name                     : &name "Qisheng Pan (潘启生)"
 description              : &description "personal description"
-# url                      : https://qisheng-pan.github.io
-url                      : https://localhost:4000 
+url                      : https://qisheng-pan.github.io
+# url                      : https://localhost:4000 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qisheng-pan/qisheng-pan.github.io"
 

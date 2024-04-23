@@ -41,8 +41,10 @@ Publications
 
 Collaboration
 ======
-<a href="https://www.rmit.edu.au/contact/staff-contacts/academic-staff/b/boer-dr-jennifer" target="_blank">Jeniffer Boer</a> and <a href="https://www.rmit.edu.au/contact/staff-contacts/academic-staff/p/plebanski-magdalena" target="_blank">Magdalena Plebanski</a>, Royal Melbourne Institute of Technology, Australia 2022 - 2023 
-* Investigating the variants of the Spike protein in Omicron SARS-CoV-2 virus 
+* <a href="https://www.rmit.edu.au/contact/staff-contacts/academic-staff/b/boer-dr-jennifer" target="_blank">Jeniffer Boer</a> and <a href="https://www.rmit.edu.au/contact/staff-contacts/academic-staff/p/plebanski-magdalena" target="_blank">Magdalena Plebanski</a>, Royal Melbourne Institute of Technology, Australia 2022 - 2023 
+  * Investigating the variants of the Spike protein in Omicron SARS-CoV-2 virus 
+* Researcher across Australia, on-going, 2023 - now
+  * Charactersing the effect of mutations reported in clinical screening
 
 <br>
 
