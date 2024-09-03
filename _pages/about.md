@@ -28,11 +28,14 @@ In my spare time, I like photography, cycling, video games, grocery shopping, et
 
 
 **Brisbane**
+<br>
 <img src="/images/koala/1713851532854.jpg" width="50%" height="50%">
 
 **Melbourne**
+<br>
 <img src="/images/great_ocean_road/DSC02745.jpg" width="50%" height="50%">
 
 **Guangzhou**
+<br>
 <img src="/images/guangzhou/DSC02472.jpg" width="50%" height="50%">
 
