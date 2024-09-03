@@ -11,7 +11,7 @@ author_profile: true
 
 Poster collections
 ------
-SAAFE 2024 AMR Solutions Summit poster <a href="/files/SAAFE_2024_qishengpan_poster.pdf" target="_blank"></a>.
+SAAFE 2024 AMR Solutions Summit poster <a href="/files/SAAFE_2024_qishengpan_poster.pdf" target="_blank">here</a>
 
 
 
