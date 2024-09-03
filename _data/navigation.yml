@@ -11,12 +11,13 @@ main:
     
   - title: "Awards"
     url: /awards/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
   - title: "Albums"
     url: /photo_collections/
+        
+  - title: ""
+    url: /poster/
+
