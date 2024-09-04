@@ -17,17 +17,18 @@ Currently, my PhD projects focus on answering the questions like:
 
 <div style="text-align: justify; margin-bottom: 5px;">
   <ul>
-    <li><b>Can we use AI-generated protein structures to study mutations and the corresponding phenotypes</b>, and </li>
-    <li><b>How can we leverage the computational methods and interpretable machine learning to better charactersise the effect of missense variants towards pathogenic phenotypes</b>.</li>
+    <li><b>Can we use AI-generated protein structures to study mutations and the corresponding phenotypes ?</b>
+    </li>
+    <li><b>How can we leverage the computational methods and interpretable machine learning to better charactersise the effect of missense variants towards pathogenic phenotypes ?</b></li>
   </ul>
 </div>
 
 <div style="text-align: justify; margin-bottom: 5px;">
-I am pretty ambitious. Now I am aiming to obtain different fundings such as fellowship to support my post-doc research. 
+I am pretty ambitious. Now I am trying to obtain fundings such as fellowship to support my post-doc research. 
 </div>
 
 <div style="text-align: justify; margin-bottom: 20px;">
-In my spare time, I like photography, cycling, video games, grocery shopping, etc.
+Personally, I like photography, cycling, video games, grocery shopping, etc.
 </div>
 
 
