@@ -17,9 +17,9 @@ Currently, my PhD projects focus on answering the questions like:
 
 <div style="text-align: justify; margin-bottom: 5px;">
   <ul>
-    <li><b>Can we use AI-generated protein structures to study mutations and the corresponding phenotypes ?</b>
+    <li><b>Can we use AI-generated protein structures to study the effects of mutations?</b>
     </li>
-    <li><b>How can we leverage the computational methods and interpretable machine learning to better charactersise the effect of missense variants towards pathogenic phenotypes ?</b></li>
+    <li><b>How can we leverage the computational methods and interpretable machine learning to better charactersise the effect of missense variants?</b></li>
   </ul>
 </div>
 
